@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4025756517",
+    "hash" : "3886090106",
     "id" : "43F1E7CD",
-    "lastKnownWriteTime" : 1573930160,
-    "last_content_update" : 1573930160,
+    "lastKnownWriteTime" : 1573932407,
+    "last_content_update" : 1573932407220,
     "path" : "C:/Users/Zixin/Desktop/PersonalWebsite/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "7,32",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
